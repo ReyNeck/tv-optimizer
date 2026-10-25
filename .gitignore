@@ -1,0 +1,13 @@
+# Credenciales y variables de entorno
+*.env
+*.key
+*.token
+
+# Logs de auditoría ADB e IPs de red
+*.log
+backup_packages_*.txt
+tv_ip.conf
+
+# Archivos de sistema / temporales
+__pycache__/
+*.tmp
